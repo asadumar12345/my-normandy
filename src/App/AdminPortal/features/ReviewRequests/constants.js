@@ -1,0 +1,1 @@
+export const FILTER_DATA_API='AgentsRewards/GetFilterList'

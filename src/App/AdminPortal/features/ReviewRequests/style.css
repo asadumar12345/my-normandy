@@ -1,0 +1,17 @@
+.drawer{
+    margin-top: 65px;
+}
+.ant-drawer-close{
+    position: absolute;
+    right: 24px;
+    top : 34px
+}
+div.ant-modal-header {
+    border-bottom: 1px solid #CFD9E0; 
+    height: 70px !important;
+    padding-top: 24px !important;
+    padding-left: 24px !important;
+    padding-right: 24px !important; 
+}
+
+

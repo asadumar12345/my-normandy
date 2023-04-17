@@ -1,0 +1,20 @@
+
+.f-s{
+    font-weight: 600 !important;
+    font-size: 14px;
+    color: #171717;
+}
+.active{
+    color: #171717;
+   font-weight: 600;
+}
+.inactive{
+   color: #737373;
+}
+.border-botm{
+    border-bottom: 2px solid #009347;
+}
+.ant-space-item{
+    z-index: 0;
+}
+
