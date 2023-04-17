@@ -22,7 +22,6 @@
     "use-debounce": "^9.0.3",
     "web-vitals": "^2.1.4" 
   },
-  "engines": { "node": "18.x" } ,
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -61,7 +60,7 @@
   },
   "engines": {
     "npm": ">=8.19.0 <9.8.0",
-    "node": ">=19.0.0 <19.8.1"
+    "node": "19.7.0"
   },
   "devDependencies": {
     "@storybook/addon-actions": "^6.5.16",
