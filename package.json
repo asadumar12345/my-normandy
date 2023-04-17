@@ -60,7 +60,7 @@
   },
   "engines": {
     "npm": ">=8.19.0 <9.8.0",
-    "node": "19.7.0"
+    "node": "18.x"
   },
   "devDependencies": {
     "@storybook/addon-actions": "^6.5.16",
